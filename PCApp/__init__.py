@@ -1,0 +1,2 @@
+def templatetags():
+    return None
